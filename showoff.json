@@ -1,5 +1,6 @@
 {
   "name": "Terraforming PeopleSoft",
+  "highlight": "railscasts",
   "sections": [
     {
       "section": "slides/slides.md"
