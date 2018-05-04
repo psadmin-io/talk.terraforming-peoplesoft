@@ -2,6 +2,10 @@
   background-color: #ffffff;
 }
 
+.center .title .white h1 {
+  color: #333333;
+}
+
 .orange { 
   background-color: #fbb03b;
 }
@@ -20,6 +24,14 @@
 
 .green {
   background-color: #67be28;
+}
+
+.oraclered {
+  background-color: #f80000;
+}
+
+.full {
+  max-width: 100%;
 }
 
 .center .title h1 {
@@ -43,10 +55,15 @@
 code {
   font-family: 'Inconsolata';
   font-size: 36px;
+  color: #333333;
 }
 
 .hljs {
   background-color: #ffffff;
+}
+
+code .language-ruby .hljs {
+  color: #333333;
 }
 
 /* latin-ext */
