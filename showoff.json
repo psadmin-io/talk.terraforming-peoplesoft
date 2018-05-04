@@ -1,8 +1,8 @@
 {
-  "name": "My Preso",
+  "name": "Terraforming PeopleSoft",
   "sections": [
     {
-      "section": "one"
+      "section": "slides/slides.md"
     }
   ]
 }
