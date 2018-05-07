@@ -5,9 +5,9 @@ provider "aws" {
 
 # Amazon Linux Instance
 resource "aws_instance" "demo" {
-    ami           = "ami-467ca739" 
-    instance_type = "t2.large"
-    count         = "1" 
+  ami           = "ami-467ca739"
+  instance_type = "t2.large"
+  count         = "1"
 }
 
 # Display Public DNS
