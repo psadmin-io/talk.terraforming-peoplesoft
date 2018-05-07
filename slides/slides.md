@@ -154,6 +154,10 @@ Once you realize you have the power, it can lead to interesting discussions
 
 # github.com/ <br /> oracle/ <br /> terraform-examples
 
+!SLIDE center title purple
+
+# github.com/ <br /> jrbing/ <br /> pses-kube-presentation
+
 !SLIDE center title blue
 
 # QUESTIONS?
