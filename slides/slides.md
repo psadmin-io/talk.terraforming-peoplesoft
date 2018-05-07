@@ -150,6 +150,14 @@ Once you realize you have the power, it can lead to interesting discussions
 
 # github.com/ <br /> psadmin-io/ <br /> ps-terraform
 
+!SLIDE center title oraclered
+
+# github.com/ <br /> oracle/ <br /> terraform-examples
+
+!SLIDE center title blue
+
+# QUESTIONS?
+
 !SLIDE center title white
 
 ![psadmin.io](../_images/psadmin_io_blue_400.png)
