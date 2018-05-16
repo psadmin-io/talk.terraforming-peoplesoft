@@ -8,6 +8,10 @@ resource "aws_instance" "demo" {
   ami           = "ami-467ca739"
   instance_type = "t2.large"
   count         = "1"
+  key_name      = "terraform"
+  tags {
+    Name = "TF Demo"
+  }
 }
 
 # Display Public DNS

@@ -96,18 +96,13 @@ Now, do your vm's talk to anything or each other
 
 # DEMO
 
-!SLIDE center title 
+!SLIDE center title darkblue
 
 ![Power](../_images/he-man.jpg)
-
-!SLIDE center title black
-
-# With great cloud power comes great responsibility
 
 ~~~SECTION:notes~~~
 Once you realize you have the power, it can lead to interesting discussions
 ~~~ENDSECTION~~~
-
 
 !SLIDE center title green
 
@@ -115,7 +110,12 @@ Once you realize you have the power, it can lead to interesting discussions
 
 !SLIDE center title green
 
-# Dan: Yeah, just destroy and rebuild.
+# Dan: Yeah, destroy them all.
+
+!SLIDE center green
+
+# terraform destroy
+# terraform apply
 
 !SLIDE center title green
 
@@ -129,6 +129,10 @@ Once you realize you have the power, it can lead to interesting discussions
 !SLIDE center title oraclered
 
 # "Now I am become Cloud Admin, the destroyer of Servers" - Kyle
+
+!SLIDE center title black
+
+# With great cloud power comes great responsibility
 
 !SLIDE center title white
 
