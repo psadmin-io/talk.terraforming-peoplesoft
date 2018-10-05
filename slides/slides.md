@@ -29,7 +29,7 @@ Cheap, and we don't have room for them in the data center
 
 ![HashiCorp Logo](../_images/HashiCorp_PrimaryLogo_Black.png)
 
-!SLIDE center title black
+!SLIDE full-page title black
 
 ![HashiCorp Products](../_images/HashiCorpSuite_OpenSource_StackGraphic.png)
 
@@ -49,19 +49,18 @@ Cheap, and we don't have room for them in the data center
 
 ![Providers](../_images/aws-logo.png)
 
-!SLIDE center title white
+!SLIDE full-page title white
 
 ![Providers](../_images/Azure_logo.png)
 
-!SLIDE center title white
+!SLIDE full-page title white
 
 ![Providers](../_images/gcp_logo.png)
 
-!SLIDE center title white
+!SLIDE[bg=_images/vmware_cloud_logo.jpg] background-fit white
 
-![Providers](../_images/vmware_cloud_logo.jpg)
 
-!SLIDE center title white
+!SLIDE full-page title white
 
 ![Providers](../_images/oracle_cloud.png)
 
@@ -96,9 +95,7 @@ Now, do your vm's talk to anything or each other
 
 # DEMO
 
-!SLIDE center title darkblue
-
-![Power](../_images/he-man.jpg)
+!SLIDE[bg=/_images/he-man.jpg] background-fit darkblue
 
 ~~~SECTION:notes~~~
 Once you realize you have the power, it can lead to interesting discussions

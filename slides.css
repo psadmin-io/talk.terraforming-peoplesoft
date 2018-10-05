@@ -1,3 +1,9 @@
+#preso,
+.slide {
+    width: 1280px !important;
+    height: 720px !important;
+}
+
 .white {
   background-color: #ffffff;
 }
